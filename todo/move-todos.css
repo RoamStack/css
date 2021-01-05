@@ -1,0 +1,15 @@
+/*------------------------
+Move TODOs marked as DONE to end of list in Roam with CSS
+Author:: CatoMinor
+Date:: 01/05/2021
+Source:: Twitter (via @RoamStack)
+-------------------------*/
+
+[data-page-links*='\"todos\"']
+> .rm-block-children
+> [data-page-links*='\"DONE\"']
+{
+  order: 1;
+  opacity: 0.5;
+  text-decoration: strike-through;
+}
