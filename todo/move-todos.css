@@ -1,7 +1,8 @@
 /*------------------------
-Move TODOs marked as DONE to end of list in Roam with CSS
+Functionality:: Moves TODOs that are DONE to the end of the list and strikes them through.
+Instructions:: This CSS only affects TODOs nested under a block with the tag #todos (adjustable in the CSS)
 Author:: CatoMinor
-Date:: 01/05/2021
+Date published:: 01/05/2021
 Source:: Twitter (via @RoamStack)
 -------------------------*/
 
