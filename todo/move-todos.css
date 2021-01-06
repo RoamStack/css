@@ -1,6 +1,6 @@
 /*------------------------
 Functionality:: Moves TODOs that are DONE to the end of the list and strikes them through.
-Instructions:: This CSS only affects TODOs nested under a block with the tag #todos (adjustable in the CSS)
+Instructions:: This CSS only affects TODOs nested under a block with the tag #todos (adjustable on line 9)
 Author:: CatoMinor
 Date published:: 01/05/2021
 Source:: Twitter (via @RoamStack)
